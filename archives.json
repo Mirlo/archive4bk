@@ -65,7 +65,7 @@
   "http": true,
   "https": true,
   "software": "foolfuuka",
-  "boards": ["g", "jp", "mlp", "v", "vg", "vp", "vrpg"],
+  "boards": ["g", "jp", "mlp", "v", "vg", "vmg", "vp", "vrpg"],
   "files": [],
   "search": ["v", "vg"]
 }, {
